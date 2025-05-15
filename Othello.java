@@ -1,9 +1,4 @@
 // Othello.java
-// The provide files comprise a functional 2-Player Othello game.
-// It is based on the same template used for the TicTacToe examples.
-// Students need to convert this to a 1-Player game where the user
-// plays against the computer's A.I.
-
 
 import java.awt.*;
 import java.awt.event.*;
